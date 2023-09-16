@@ -1,2 +1,5 @@
 # Python-100-Days-Of-Code
-in progress..
+
+ordered with each branch on its own with preview(s)
+
+01-band-name-generator
